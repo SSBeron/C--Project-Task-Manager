@@ -1,0 +1,33 @@
+C:\Users\sulta\Desktop\New C# Project\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\sulta\Desktop\New C# Project\bin\Debug\net7.0\appsettings.json
+C:\Users\sulta\Desktop\New C# Project\bin\Debug\net7.0\New C# Project.exe
+C:\Users\sulta\Desktop\New C# Project\bin\Debug\net7.0\New C# Project.deps.json
+C:\Users\sulta\Desktop\New C# Project\bin\Debug\net7.0\New C# Project.runtimeconfig.json
+C:\Users\sulta\Desktop\New C# Project\bin\Debug\net7.0\New C# Project.dll
+C:\Users\sulta\Desktop\New C# Project\bin\Debug\net7.0\New C# Project.pdb
+C:\Users\sulta\Desktop\New C# Project\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\sulta\Desktop\New C# Project\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\sulta\Desktop\New C# Project\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sulta\Desktop\New C# Project\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sulta\Desktop\New C# Project\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sulta\Desktop\New C# Project\obj\Debug\net7.0\New C# Project.csproj.AssemblyReference.cache
+C:\Users\sulta\Desktop\New C# Project\obj\Debug\net7.0\New C# Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sulta\Desktop\New C# Project\obj\Debug\net7.0\New C# Project.AssemblyInfoInputs.cache
+C:\Users\sulta\Desktop\New C# Project\obj\Debug\net7.0\New C# Project.AssemblyInfo.cs
+C:\Users\sulta\Desktop\New C# Project\obj\Debug\net7.0\New C# Project.csproj.CoreCompileInputs.cache
+C:\Users\sulta\Desktop\New C# Project\obj\Debug\net7.0\New C# Project.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sulta\Desktop\New C# Project\obj\Debug\net7.0\New C# Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sulta\Desktop\New C# Project\obj\Debug\net7.0\staticwebassets\msbuild.New C# Project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sulta\Desktop\New C# Project\obj\Debug\net7.0\staticwebassets\msbuild.build.New C# Project.props
+C:\Users\sulta\Desktop\New C# Project\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.New C# Project.props
+C:\Users\sulta\Desktop\New C# Project\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.New C# Project.props
+C:\Users\sulta\Desktop\New C# Project\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\sulta\Desktop\New C# Project\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\sulta\Desktop\New C# Project\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\sulta\Desktop\New C# Project\obj\Debug\net7.0\scopedcss\bundle\New C# Project.styles.css
+C:\Users\sulta\Desktop\New C# Project\obj\Debug\net7.0\New C# Project.csproj.CopyComplete
+C:\Users\sulta\Desktop\New C# Project\obj\Debug\net7.0\New C# Project.dll
+C:\Users\sulta\Desktop\New C# Project\obj\Debug\net7.0\refint\New C# Project.dll
+C:\Users\sulta\Desktop\New C# Project\obj\Debug\net7.0\New C# Project.pdb
+C:\Users\sulta\Desktop\New C# Project\obj\Debug\net7.0\New C# Project.genruntimeconfig.cache
+C:\Users\sulta\Desktop\New C# Project\obj\Debug\net7.0\ref\New C# Project.dll
